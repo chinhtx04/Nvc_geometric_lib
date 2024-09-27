@@ -1,4 +1,4 @@
-
+# area of square 
 def area(a):
     return a * a
 
